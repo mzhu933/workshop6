@@ -2,7 +2,7 @@
 Text and Language
 # URL: https://mzhu933.github.io/workshop6/ 
 
-## note in workshop video
+## - note in workshop video:
 <img width="379" alt="截屏2025-01-22 下午6 41 47" src="https://github.com/user-attachments/assets/276aef56-060e-455c-a7e4-192730495944" />
 
 <img width="433" alt="截屏2025-01-22 下午6 41 59" src="https://github.com/user-attachments/assets/e34e6475-d0b8-4606-916a-8294ddf3b48e" />
@@ -12,7 +12,7 @@ Text and Language
 
 
 
-## RiTa
+## - RiTa:
 - 3 function learnt in Rita
 
 - https://rednoise.org/rita/reference/RiTa/rhymes/index.html
@@ -31,7 +31,7 @@ Text and Language
 <img width="796" alt="截屏2025-01-22 下午6 37 34" src="https://github.com/user-attachments/assets/2e30ea2f-8a7c-4e8f-b711-998391e71b04" />
 
 
-## problem solving 
+## - problem solving:  
 - learnt about ignore empty input (if (userLine.trim() === "") return;)
 <img width="804" alt="截屏2025-01-22 下午6 58 10" src="https://github.com/user-attachments/assets/d893a874-3209-41f9-aa25-9e2f0f9567d6" />
 
@@ -41,13 +41,13 @@ Text and Language
 
 
 
-## reflection
+## - reflection: 
 - The newLine function was a key experiment, swapping user input with algorithmically selected rhymes. It felt like exploring the boundary between control (user input) and spontaneity (random selection).
 - The POS tagging (RiTa.pos) added a second layer of meaning, almost like revealing the hidden framework of the words.
   
 <img width="449" alt="截屏2025-01-21 下午10 21 28" src="https://github.com/user-attachments/assets/be858bd8-79c8-40c7-a795-39cda2a68f18" />
 
-### future development
+## - future development: 
 - I want to interact more with users
 - for developing pos, let users to hover over or click on a word in the poem to highlight its part of speech dynamically.
 
